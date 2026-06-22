@@ -16,7 +16,6 @@
 class Negar:
     university  = "Isfahan University of Technology ([IUT](https://english.iut.ac.ir/))"
     major       = "Computer Engineering"
-    interests   = ["Algorithms", "Machine Learning", "Problem Solving", "Software Design", "Network Security"]
     languages   = ["Python", "C", "C++", "SQL"]
     currently   = "Learning & Building 🚀"
     fun_fact    = "I think in loops and dream in functions 💡"
