@@ -14,7 +14,7 @@
 
 ```python
 class Negar:
-    university  = "Isfahan University of Technology ([IUT](https://english.iut.ac.ir/))"
+    university  = "Isfahan University of Technology ([IUT](https://english.iut.ac.ir))"
     major       = "Computer Engineering"
     interests   = ["Algorithms", "Machine Learning", "Problem Solving", "Software Design"]
     languages   = ["Python", "C", "C++", "SQL"]
@@ -40,6 +40,14 @@ class Negar:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
+---
+
+## 💻 Coding Vibes
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding animation"/>
 </div>
 
 ---
