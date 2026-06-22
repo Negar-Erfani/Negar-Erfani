@@ -44,10 +44,10 @@ class Negar:
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Negar-Erfani/Negar-Erfani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Negar-Erfani&theme=tokyo-night&color=a18cd1&line=a18cd1&point=fbc2eb&area=true&hide_border=false" width="100%"/>
 </div>
 
 ---
