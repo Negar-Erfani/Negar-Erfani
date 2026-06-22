@@ -44,10 +44,10 @@ class Negar:
 
 ---
 
-## 💻 Coding Vibes
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddea83b83f4.gif" width="400" alt="coding girl animation"/>
+  <img src="https://raw.githubusercontent.com/Negar-Erfani/Negar-Erfani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
