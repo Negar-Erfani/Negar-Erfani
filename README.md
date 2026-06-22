@@ -16,7 +16,7 @@
 class Negar:
     university  = "Isfahan University of Technology ([IUT](https://english.iut.ac.ir))"
     major       = "Computer Engineering"
-    interests   = ["Algorithms", "Machine Learning", "Problem Solving", "Software Design"]
+    interests   = ["Algorithms", "Data Structures", "Problem Solving", "Software Design"]
     languages   = ["Python", "C", "C++", "SQL"]
     currently   = "Learning & Building 🚀"
     fun_fact    = "I think in loops and dream in functions 💡"
@@ -47,7 +47,7 @@ class Negar:
 ## 💻 Coding Vibes
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding animation"/>
 </div>
 
 ---
