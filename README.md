@@ -14,7 +14,7 @@
 
 ```python
 class Negar:
-    university  = "Isfahan University of Technology ([IUT](https://english.iut.ac.ir))"
+    university  = "Isfahan University of Technology ([IUT](https://english.iut.ac.ir/))"
     major       = "Computer Engineering"
     interests   = ["Algorithms", "Data Structures", "Problem Solving", "Software Design"]
     languages   = ["Python", "C", "C++", "SQL"]
@@ -47,7 +47,7 @@ class Negar:
 ## 💻 Coding Vibes
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddea83b83f4.gif" width="400" alt="coding girl animation"/>
 </div>
 
 ---
