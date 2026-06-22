@@ -14,9 +14,9 @@
 
 ```python
 class Negar:
-    university  = "Isfahan University of Technology (IUT)"
+    university  = "Isfahan University of Technology ([IUT](https://english.iut.ac.ir/))"
     major       = "Computer Engineering"
-    interests   = ["Algorithms", "Data Structures", "Problem Solving", "Software Design"]
+    interests   = ["Algorithms", "Machine Learning", "Problem Solving", "Software Design"]
     languages   = ["Python", "C", "C++", "SQL"]
     currently   = "Learning & Building 🚀"
     fun_fact    = "I think in loops and dream in functions 💡"
@@ -55,14 +55,6 @@ class Negar:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Negar-Erfani&theme=tokyonight&border=a18cd1" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Negar-Erfani/Negar-Erfani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
