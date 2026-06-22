@@ -44,10 +44,13 @@ class Negar:
 
 ---
 
-## 📈 Activity Graph
+## 📬 Contact Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Negar-Erfani&theme=tokyo-night&color=a18cd1&line=a18cd1&point=fbc2eb&area=true&hide_border=false" width="100%"/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-negarer1384%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negarer1384@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Negar%20Erfani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/negar-erfani-664910360)
+
 </div>
 
 ---
