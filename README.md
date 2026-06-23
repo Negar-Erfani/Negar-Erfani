@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=200&section=header&text=Hi%2C%20I%27m%20Negar!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%40%20IUT&descAlignY=60&descColor=f0e6ff" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=a18cd1&center=true&vCenter=true&width=600&lines=CS+Student+at+Isfahan+University+of+Technology;Passionate+about+Problem+Solving+%F0%9F%A7%A9;Always+Learning+Something+New+%F0%9F%93%9A;Let%27s+Build+Something+Cool+Together+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=a18cd1&center=true&vCenter=true&width=600&lines=CE+Student+at+Isfahan+University+of+Technology;Passionate+about+Problem+Solving+%F0%9F%A7%A9;Always+Learning+Something+New+%F0%9F%93%9A;Let%27s+Build+Something+Cool+Together+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
